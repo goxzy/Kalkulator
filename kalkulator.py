@@ -4,7 +4,8 @@ def passe():
     try:
         return 0
     except:
-        pass
+        if True:
+            pass
 while izbor>=1 and izbor<=6:
     print("Kalkulator:")
     print("1.zbrajanje")
