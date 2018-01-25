@@ -1,6 +1,6 @@
 import math
 izbor=1
-def passeeeee():
+def passeeeeed():
     try:
         return 0
     except:
