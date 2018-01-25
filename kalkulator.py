@@ -1,5 +1,7 @@
 import math
 izbor=1
+def passe():
+    pass
 while izbor>=1 and izbor<=6:
     print("Kalkulator:")
     print("1.zbrajanje")
